@@ -1,7 +1,10 @@
-.dls-title {font-weight: bold;}
-.dls-start-button {width: 450px; height: 100px; font-size: 60px;}
-.dls-axpic {width: 90%; height: 90%;}
-.dls-pic-col {padding-bottom: 15px}
+.dls-title {font-weight: bold; cursor: pointer;}
+.dls-start-button {width: 450px; height: 100px; font-size: 60px; cursor: pointer;}
+.dls-axpic {width: 90%; height: 90%; cursor: pointer;}
+.dls-pic-col {padding-bottom: 15px; cursor: pointer;}
 .dls-questions {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 30px;}
-.dls-prev-button {position:fixed; bottom:10px; left:10px;}
-.dls-next-button {position:fixed; bottom:10px; right:10px;}
+.dls-prev-button {position:fixed; bottom:10px; left:10px; cursor: pointer;}
+.dls-next-button {position:fixed; bottom:10px; right:10px; cursor: pointer;}
+.category-pic {width: 90%; height: 90%;border-radius: 4px; cursor: pointer;}
+.category-pic:hover{background-color: brown; padding:10px;}
+.nav-straighten {border-radius:0px;}
