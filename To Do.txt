@@ -1,0 +1,76 @@
+
+- change cursor over clickable areas
+- Title top left question number
+- categories on main page (objects, actions, etc)
+- make own pics
+- quick ax random from categories
+
+
+
+categories:
+-nouns
+-actions
+-prepositions
+-
+
+
+Error types:
+phonological
+semantic
+...
+
+
+
+NOUN
+apple
+baby
+ball
+bed
+bear
+bird
+boy
+cake
+car
+cat
+cow
+cup
+dad
+dog
+doll
+feet
+flower
+girl
+house
+hat
+mum/lady
+pig
+pencil
+shoe
+sun
+tree
+
+ACTIONS
+brush
+clap
+cry
+cut
+dance
+drink
+eat
+jump
+kick
+paint
+push
+read
+run
+sleep
+sit
+smile
+walk
+wash
+
+PREPOSITIONS
+IN
+ON
+UNDER
+

@@ -5,3 +5,9 @@
 .dls-questions {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 30px;}
 .dls-prev-button {position:fixed; bottom:10px; left:10px;}
 .dls-next-button {position:fixed; bottom:10px; right:10px;}
+body {
+    background-image:url('backgroundpic.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
